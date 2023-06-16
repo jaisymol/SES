@@ -1,0 +1,50 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="myproject.settings.urlpatterns" />
+          <option value="todoapp.admin.ngo" />
+          <option value="eshopproject.*" />
+          <option value="shop.views.get_object_or_404" />
+          <option value="shop.views.num_pages" />
+          <option value="cart.views.c_id" />
+          <option value="cart.views.items" />
+          <option value="cart.views.tot" />
+          <option value="cart.views.count" />
+          <option value="cart.models.cartlist.*" />
+          <option value="cart.views.product_id" />
+          <option value="accounts.views.u" />
+          <option value="cart.context_processor.c_id" />
+          <option value="accounts.admin.accounts" />
+          <option value="accounts.admin.register" />
+          <option value="accounts.admin.reg" />
+          <option value="restapp.views.models" />
+          <option value="restapp.serializers.rest_framework" />
+          <option value="rest.settings.rest_framework" />
+          <option value="restapp.views.rest_framework" />
+          <option value="restapp.views.IsAuthenticated" />
+          <option value="restapp.views.CreateuserView" />
+          <option value="DEMOPROJECT.DEMOAPP.views.request" />
+          <option value="studentproject.studentapp.views.register" />
+          <option value="hospitalproject.hospitalapp.views.register" />
+          <option value="bankproject.bankapp.views.Form" />
+          <option value="Betterbuy.Betterbuyapp.views.Category" />
+          <option value="student.views.Register" />
+          <option value="dashboard.models.Notification" />
+          <option value="dashboard.models.StudentApplication" />
+          <option value="datetime.Notification" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
